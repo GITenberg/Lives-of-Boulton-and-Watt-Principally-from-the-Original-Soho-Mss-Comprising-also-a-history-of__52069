@@ -1,0 +1,28 @@
+_repo: Lives-of-Boulton-and-Watt-Principally-from-the-Original-Soho-Mss-Comprising-also-a-history-of__52069
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smiles, Samuel
+    birthdate: 1812
+    deathdate: 1904
+    gutenberg_agent_id: '224'
+    url: http://www.gutenberg.org/2009/agents/224
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Smiles
+description: ''
+gutenberg_issued: '2016-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52069'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boulton, Matthew, 1728-1809'
+- !lcsh 'Steam-engines -- History'
+- !lcc 'TJ'
+- !lcsh 'Watt, James, 1736-1819'
+- GITenberg
+title: "Lives of Boulton and Watt. Principally from the Original Soho Mss.\r\nComprising\
+  \ also a history of the invention and introduction of the steam engine"
+url: http://www.gutenberg.org/ebooks/52069
