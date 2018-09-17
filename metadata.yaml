@@ -1,5 +1,8 @@
 _repo: Lives-of-Boulton-and-Watt-Principally-from-the-Original-Soho-Mss-Comprising-also-a-history-of__52069
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52069-h/images/cover.jpg
 creator:
   author:
     agent_name: Smiles, Samuel
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/224
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Smiles
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52069#Lives-of-Boulton-and-Watt-Principally-from-the-Original-Soho-Mss-Comprising-also-a-history-of_
 gutenberg_issued: '2016-05-15'
 gutenberg_type: Text
 identifiers:
